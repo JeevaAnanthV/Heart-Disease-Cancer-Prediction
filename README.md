@@ -1,1 +1,0 @@
-# Heart-Disease-Cancer-Prediction
